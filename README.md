@@ -1,9 +1,9 @@
 # 💫 Yegor Cherov: Fullstack Developer & Game Developer & Cybersecurity Specialist
 
 [![](https://visitcount.itsvg.in/api?id=YegorCherov&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
+https://github-readme-stats-ruby-one.vercel.app
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YegorCherov&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-ruby-one.vercel.app/api?username=YegorCherov&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YegorCherov&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YegorCherov&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
