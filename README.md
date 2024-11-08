@@ -1,4 +1,4 @@
-# 💫 Yegor Cherov: Fullstack Developer & Game Developer & Cybersecurity Specialist
+# Yegor Cherov: Fullstack Developer & aspiring Game Developer & Cybersecurity Analyst
 
 [![](https://visitcount.itsvg.in/api?id=YegorCherov&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
